@@ -1,5 +1,4 @@
 # [Deep Hashing via Mean Centroid Representation for Large-scale Image Retrieval](https://www.sciencedirect.com/science/article/pii/S095741742602419X)
- If you have any questions, please contact 18853645805@qfnu.edu.cn.
 
 ### Start
 
